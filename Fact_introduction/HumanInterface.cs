@@ -1,10 +1,5 @@
 ﻿using Fact_introduction.Interfaces;
 using Fact_introduction.Rules;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Fact_introduction
 {
